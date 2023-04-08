@@ -2,4 +2,4 @@ test
 
 something else
 
-version:3
+version:4
